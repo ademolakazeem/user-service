@@ -29,3 +29,4 @@ build/
 
 ### VS Code ###
 .vscode/
+docker-setup/mongodb/data/*
