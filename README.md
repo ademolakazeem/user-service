@@ -32,7 +32,7 @@ Before you can run this application, you need to first install the following:
 ## Deployment
 Here are steps taken to be able to run this project successfully:
 
-Please see the [Deployment section of the messaging-service](https://github.com/ademolakazeem/messaging-service/blob/main/README.md) on how to deploy this application using docker
+Please see the [Deployment section of the messaging-service ReadMe](https://github.com/ademolakazeem/messaging-service/blob/main/README.md) on how to deploy this application using docker
 
 or
 
